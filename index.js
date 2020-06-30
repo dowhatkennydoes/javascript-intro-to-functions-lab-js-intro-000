@@ -16,5 +16,5 @@ function logWhisper(string){
 
 function sayHiToGrandma(string){
   var string = 'string'
-  if()
+  if(string =)
 }
